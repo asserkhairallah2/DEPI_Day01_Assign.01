@@ -10,3 +10,7 @@ You can view the full report covering .NET Versions, Namespaces, .NET Core, Solu
 ### 3. LinkedIn Post
 The theoretical comparison between pre-.NET and .NET compilation processes has been published on LinkedIn. You can view the post here:
 [View LinkedIn Post](https://lnkd.in/p/egatPeuJ)' > README.md
+
+
+
+# Asser Khairallah ^.0
